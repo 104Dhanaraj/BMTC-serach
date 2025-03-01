@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMTC Route Planner</string>
+    <string name="select_route">Select Route</string>
+    <string name="select_source">Select Source</string>
+    <string name="select_destination">Select Destination</string>
+
+
+</resources>
